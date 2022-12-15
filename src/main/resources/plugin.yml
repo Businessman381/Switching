@@ -1,0 +1,11 @@
+name: Switching
+version: '${project.version}'
+main: me.switching.Main
+api-version: 1.19
+authors: [ Businessman381 ]
+description: Switching players minigame plugin
+
+commands:
+  switching:
+    description: 'Switching minigame command'
+    permission: switching.switching
